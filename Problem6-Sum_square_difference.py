@@ -10,5 +10,5 @@ square_of_sum = list(range(1, 1000))
 
 for i in range(1, 1000):
     sum_of_squares.append(i^2)
-    i++
+    
 
